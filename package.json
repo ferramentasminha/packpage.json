@@ -1,13 +1,11 @@
 {
   "name": "gospel-app",
   "version": "1.0.0",
-  "description": "App Node.js para conteúdo gospel",
+  "description": "App Node.js Gospel",
   "main": "server.js",
-  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+  "author": "Carlos Roberto",
+  "license": "MIT"
 }
